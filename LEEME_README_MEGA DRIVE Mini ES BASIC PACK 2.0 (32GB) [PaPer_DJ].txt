@@ -14,7 +14,7 @@ X:\mega_drive_saves
 X:\swap
 
 El "Mega Drive Mini ES BASIC PACK 2.0" cabe en una memoria USB de 32Gb o superior, e incluye la siguiente selección de sistemas:
-MEGA DRIVE, MEGA-CD, 32X, MASTER SYSTEM, GameGear, NES y SNES.
+MEGA DRIVE, MEGA-CD, 32X, MASTER SYSTEM, GameGear, NES, SNES, N64, GB, GBC, GBA, PSX, PSP, DREAMCAST, NAOMI, ATOMISWAVE, PCENGINE, PCENGINE-CD, NEOGEO, MAME, ZX SPECTRUM, C64, MSX, AMSTRAD CPC, SCUMMVM, COLECO VISION, GAME-WATCH, KODI (VIDEOS)
 
 Para jugar a algunos sistemas es necesario utilizar algún mando con más botones y gatillos, como el de Playstation.
 En el caso de los sistemas PC viejunos, es muy recomendable y en algunos casos imprescindible, conectar un teclado USB.
